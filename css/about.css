@@ -375,7 +375,7 @@ footer {
         gap: 35px;
         text-align: center;
         margin-right: auto;
-        margin-left: 140px;
+        margin-left: 130px;
     }
 
     .footer-section1{
@@ -416,4 +416,5 @@ footer {
     height: 100%;
     margin-left: -20px;
 } 
+
 }
