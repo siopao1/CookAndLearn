@@ -663,7 +663,7 @@ footer {
     .cards {
         grid-template-columns: repeat(1, 1fr);
         width: 70%;
-        margin-left: 5% auto;
+        margin-left: 20px;
     }
 
     .navbar{ 
@@ -808,6 +808,7 @@ footer {
     }
 
 }
+
 
 
 
