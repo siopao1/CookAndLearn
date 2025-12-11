@@ -656,7 +656,6 @@ footer {
 
 @media (max-width: 600px) {
      html, body {
-        min-width:600px;
         width: 100%;
         margin: 0;
         padding: 0;          /* was 600px */
@@ -666,7 +665,7 @@ footer {
     .cards {
         grid-template-columns: repeat(1, 1fr);
         width: 70%;
-        margin-left: 90px;
+        margin-left:0 auto ;
     }
 
     .navbar{ 
@@ -811,4 +810,5 @@ footer {
     }
 
 }
+
 
