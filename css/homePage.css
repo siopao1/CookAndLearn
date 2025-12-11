@@ -94,9 +94,7 @@ body {
 .heart {
     color: #DE2929;
     margin-right: 35px;
-}
-
-/*This is the hero*/
+}autois is the hero*/
 .hero {
     background-image: linear-gradient(rgba(116, 128, 142, 0.35), rgba(116, 128, 142, 0.35)), url("/SOURCE/images/bg hero.png");
     background-size: cover;
@@ -665,7 +663,7 @@ footer {
     .cards {
         grid-template-columns: repeat(1, 1fr);
         width: 70%;
-        margin-left:0 auto ;
+        margin-left: 20% auto;
     }
 
     .navbar{ 
@@ -810,5 +808,6 @@ footer {
     }
 
 }
+
 
 
