@@ -656,8 +656,7 @@ footer {
 
 @media (max-width: 600px) {
      html, body {
-        min-width: 600px;
-        width: 600px;
+        width: 100%;
         margin: 0;
         padding: 0;          /* was 600px */
         overflow-x: hidden;
@@ -809,4 +808,5 @@ footer {
         max-width:  150px;
         margin-left: 10px;
     }
+
 }
