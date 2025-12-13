@@ -94,7 +94,9 @@ body {
 .heart {
     color: #DE2929;
     margin-right: 35px;
-}autois is the hero*/
+}
+
+/*This is the hero*/
 .hero {
     background-image: linear-gradient(rgba(116, 128, 142, 0.35), rgba(116, 128, 142, 0.35)), url("/SOURCE/images/bg hero.png");
     background-size: cover;
@@ -654,7 +656,8 @@ footer {
 
 @media (max-width: 600px) {
      html, body {
-        width: 100%;
+        min-width: 600px;
+        width: 600px;
         margin: 0;
         padding: 0;          /* was 600px */
         overflow-x: hidden;
@@ -663,7 +666,7 @@ footer {
     .cards {
         grid-template-columns: repeat(1, 1fr);
         width: 70%;
-        margin-left: 20px;
+        margin-left: 90px;
     }
 
     .navbar{ 
@@ -806,8 +809,8 @@ footer {
         max-width:  150px;
         margin-left: 10px;
     }
-
 }
+
 
 
 
